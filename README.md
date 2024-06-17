@@ -43,6 +43,10 @@ https://github.com/foundry-rs/forge-std/tree/36c303b7ffdd842d06b1ec2744c9b9b5fb3
 
 ## Test
 
+```shell
+forge test --mt
+```
+
 a stateless fuzz test
 
 a stateful fuzz test
